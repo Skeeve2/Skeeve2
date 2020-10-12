@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Scott Dorey</h1>
 <h3 align="center">I do scripting, coding and fun projects!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skeeve2&label=Profile%20views&color=0e75b6&style=flat" alt="skeeve2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dore0062&label=Profile%20views&color=0e75b6&style=flat" alt="dore0062" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skeeve2" alt="skeeve2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dore0062" alt="dore0062" /></a> </p>
 
 - 🔭 I’m currently working on **Hexagon terrain generation**
 
