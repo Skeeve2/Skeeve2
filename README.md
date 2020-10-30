@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Tabletop Simulator games!**
 
-- 📫 How to reach me **dorescott2@gmail.com**
+- 📫 How to reach me **doreyscott2@gmail.com**
 
 - ⚡ Fun fact **I also do music, and make games occasionally!**
 
