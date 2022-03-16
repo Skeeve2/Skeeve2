@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hexagon terrain generation**
 
-- 🌱 I’m currently learning **Vue.JS, Networking**
+- 🌱 I’m currently learning **TCOD, Java**
 
 - 👯 I’m looking to collaborate on **Tabletop Simulator games!**
 
